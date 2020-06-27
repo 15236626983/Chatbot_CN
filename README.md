@@ -189,6 +189,7 @@
     *  2020.4     添加爬虫模块（基于scrapy框架）
     *  2020.5     添加语音助手模块 Chatbot_Voice
     *  2020.5     在对话模型中加入 【AutoDL + 模型压缩 + MLflow】技术
+    *  2020.6     引入Botfront，此项目可以代替以前的Chatbot_Web项目，同时Botfront还可以对模型、意图等进行管理
 
 <h2 align="center">FAQ</h2>
 
@@ -206,3 +207,4 @@
     
     1、RASA demo
     2、bert as service
+    3、Botfront
