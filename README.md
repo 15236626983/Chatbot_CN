@@ -107,6 +107,7 @@
 <tr><td><a href="https://github.com/charlesXu86/Chatbot_Recommendation">Chatbot_Recommendation</a></td><td>对话系统与推荐系统结合，目前正在规划中、暂未开始</td></tr>
 <tr><td><a href="https://github.com/charlesXu86/Chatbot_Web">Chatbot_Web</a></td><td>机器人的简单pc端页面交互，可以实现快速体验机器人效果</td></tr>
 <tr><td><a href="https://github.com/charlesXu86/Chatbot_Voice">Chatbot_Voice</a></td><td>聊天机器人的语音交互模块</td></tr>
+<tr><td><a href="https://github.com/charlesXu86/Chatbot_Analytics">Chatbot_Analytics</a></td><td>聊天机器人的数据分析模块</td></tr>
 </table>
 
 如果想了解更多详细的细节说明，请参考以下网站(详细文档)：
@@ -190,6 +191,9 @@
     *  2020.5     添加语音助手模块 Chatbot_Voice
     *  2020.5     在对话模型中加入 【AutoDL + 模型压缩 + MLflow】技术
     *  2020.6     引入Botfront，此项目可以代替以前的Chatbot_Web项目，同时Botfront还可以对模型、意图等进行管理
+    *  2020.6     开启Chatbot_addons子项目
+    *  2020.6     开始制定对RASA整体进行二次开发计划  
+    *  2020.7     增加了机器人分析模块
 
 <h2 align="center">FAQ</h2>
 
@@ -208,3 +212,5 @@
     1、RASA demo
     2、bert as service
     3、Botfront
+    4、RasaTalk
+    5、Dashbot
