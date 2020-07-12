@@ -191,8 +191,8 @@
     *  2020.5     添加语音助手模块 Chatbot_Voice
     *  2020.5     在对话模型中加入 【AutoDL + 模型压缩 + MLflow】技术
     *  2020.6     引入Botfront，此项目可以代替以前的Chatbot_Web项目，同时Botfront还可以对模型、意图等进行管理
-    *  2020.6     开启Chatbot_addons子项目
-    *  2020.6     开始制定对RASA整体进行二次开发计划  
+    *  2020.6     开始制定对RASA整体进行二次开发（DeepChatbot），DeepChatbot在rasa的基础上引入更多内容，包括集成AutoDL、模型加速（教师-学生模型等）、
+                  增加了机器人训练数据的读取方式、DST优化、更加丰富的接口等等  
     *  2020.7     增加了机器人分析模块
 
 <h2 align="center">FAQ</h2>
